@@ -2,6 +2,8 @@
 
 *`A tener en cuenta, no es necesario replicar todo al 100% en cuanto a medidas por eso es que en los requisitos principales no veran medidas. Agreguen el efecto hover donde sea necesario. Son libres de explorar y agregar lo que deseen, tanto efectos, como nuevas secciones o vistas. Las imagenes que se necesitan estan en la carpeta images de este repositorio, igualmente tienen libertad de elejir las suyas`*
 
+FECHA DE ENTREGA: 15/09
+
 ## Ejercicios
 
 - Agregar los efectos correspondientes a cada uno de los botones o links
@@ -10,6 +12,7 @@
 - Pueden utilizar todo lo que vimos en clase o investigar por su cuenta
 - Css modularizado
 - La estructura de carpetas deben ser los archivos html en la carpeta raiz y dentro `public` con las carpetas `css` y `images`
+- La fuente utilizada es `Roboto Condensed` aunque pueden buscar otra, quisa, mas parecida.
 
 
 ### 1) Header
