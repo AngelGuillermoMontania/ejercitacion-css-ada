@@ -2,7 +2,7 @@
 
 *`A tener en cuenta, no es necesario replicar todo al 100% en cuanto a medidas por eso es que en los requisitos principales no veran medidas. Agreguen el efecto hover donde sea necesario. Son libres de explorar y agregar lo que deseen, tanto efectos, como nuevas secciones o vistas. Las imagenes que se necesitan estan en la carpeta images de este repositorio, igualmente tienen libertad de elejir las suyas`*
 
-FECHA DE ENTREGA: 15/09
+FECHA DE ENTREGA: 20/09
 
 
 
